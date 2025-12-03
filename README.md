@@ -49,7 +49,7 @@
   <a><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yuurmj&show_icons=true&theme=transparent"></a>
   <br>
   <br>
-  <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=yuurmj&bg_color=ffffff&color=58A6FF&line=58A6FF&point=58A6FF&hide_border=true" width="83%"></a>
+  <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=yuurmj&bg_color=ffffff&color=58A6FF&line=58A6FF&point=58A6FF&hide_border=true" width="90%"></a>
 </div>
 
 
